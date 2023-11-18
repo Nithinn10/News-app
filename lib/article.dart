@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_7/Service Model/news_model.dart';
+import 'package:flutter_application_7/news_model.dart';
 
 class NewsDetailScreen extends StatelessWidget {
   final News news;
@@ -40,7 +40,7 @@ class NewsDetailScreen extends StatelessWidget {
               news.description,
               style: TextStyle(fontSize: 18),
             ),
-            // Add more details here as needed
+           
           ],
         ),
       ),

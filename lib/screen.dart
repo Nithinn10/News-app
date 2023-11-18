@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_7/Service Model/api_service.dart';
-import 'package:flutter_application_7/Service Model/news_model.dart';
-import 'package:flutter_application_7/Screens/article.dart';
+import 'package:flutter_application_7/api_service.dart';
+import 'package:flutter_application_7/news_model.dart';
+import 'package:flutter_application_7/article.dart';
 
 class Screen extends StatefulWidget {
   @override
